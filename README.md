@@ -10,6 +10,7 @@
 
 請確保您的專案資料夾結構如下，所有資料檔案都必須放在名為 `data` 的子資料夾中：
 
+```bash
 aicup-project/
 ├── data/
 │   ├── acct_transaction.csv       # 交易紀錄
@@ -19,7 +20,7 @@ aicup-project/
 │
 ├── test.ipynb                     # 主要的 Jupyter Notebook 程式碼
 └── README.md                      # 本說明檔案
-
+```
 
 ## 環境設定與安裝
 
